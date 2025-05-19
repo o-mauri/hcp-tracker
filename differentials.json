@@ -1,5 +1,14 @@
 [
     {
+        "date": "2025-05-07",
+        "differential": 41.525203252032526,
+        "courseRating": 69.8,
+        "slopeRating": 123,
+        "score": 117,
+        "HCPbefore": 36.39216618437371,
+        "HCPafter": 36.91749862202012
+    },
+    {
         "date": "2025-05-05",
         "differential": 39.30854700854701,
         "courseRating": 69.3,
@@ -99,12 +108,12 @@
         "HCPafter": 54.0
     },
     {
-        "date": "2025-05-07",
-        "differential": 41.525203252032526,
-        "courseRating": 69.8,
+        "date": "2025-05-18",
+        "differential": 35.55365853658537,
+        "courseRating": 68.3,
         "slopeRating": 123,
-        "score": 117,
-        "HCPbefore": 36.39216618437371,
-        "HCPafter": 36.91749862202012
+        "score": 109,
+        "HCPbefore": 36.91749862202012,
+        "HCPafter": 36.182539272426624
     }
 ]
